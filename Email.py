@@ -5,8 +5,8 @@ from API import *
 
 port = 587  # For starttls
 smtp_server = "smtp.gmail.com"
-sender_email = "marufbillahlpu@gmail.com"
-receiver_email = "billahedu@gmail.com"
+sender_email = "sender_email@gmail.com"
+receiver_email = "receiver_email@gmail.com"
 # password = input("Type your password and press enter:")
 message = """\
 Subject: Greetings
