@@ -2,7 +2,7 @@
 Python Project For Beginner
 
 
-Hey There, I had manipulated Selenium WebDriver to make this assistant
+Hey There, I had manipulated Selenium WebDriver to make this assistant.
 I hope, It will be helpful for beginner
 Break a Leg,
 Peace✌
